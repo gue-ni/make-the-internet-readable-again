@@ -13,3 +13,4 @@ https://www.budgetbytes.com/cowboy-caviar/
 https://www.alphafoodie.com/simple-vegan-chili-con-carne/
 https://www.chelseasmessyapron.com/vegetable-curry/
 https://rasamalaysia.com/one-pan-pasta/
+https://theminimalistvegan.com/vegan-buddha-bowl-three-ways/

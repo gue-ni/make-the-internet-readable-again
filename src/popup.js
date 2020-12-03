@@ -15,5 +15,5 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log('Value is set to ' + this.checked);
         });
     }, false)
-    
+
 }, false)

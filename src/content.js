@@ -17,14 +17,12 @@
 }
 
 function skipToRecipe(){
-    /*
     for (const a of document.querySelectorAll("a")) {
-        if (a.textContent.includes("Jump to Recipe")) {
+        if (a.textContent.includes("Jump to Recipe") || a.textContent.includes("Jump to Recipe")) {
             a.click()
             return
         }
     }
-    */
 
     function scroll(e){
         if (e){
