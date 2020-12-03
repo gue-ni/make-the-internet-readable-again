@@ -11,6 +11,7 @@ https://medium.com/coding-in-simple-english/how-to-create-chrome-extension-7dd39
 
 https://minimalistbaker.com/sweet-potato-chickpea-buddha-bowl/
 https://www.budgetbytes.com/one-pot-creamy-cajun-chicken-pasta/
-
+https://www.budgetbytes.com/cowboy-caviar/
+https://www.alphafoodie.com/simple-vegan-chili-con-carne/#wprm-recipe-container-19571
 
 
