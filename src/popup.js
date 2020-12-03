@@ -1,3 +1,6 @@
+/**
+ * 
+ */
 document.addEventListener('DOMContentLoaded', function() {
     var skipCheckbox = document.getElementById("skip")
     var notificationCheckbox = document.getElementById("notification")
@@ -12,4 +15,5 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log('Value is set to ' + this.checked);
         });
     }, false)
+    
 }, false)
