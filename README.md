@@ -2,7 +2,7 @@
 
 A chrome extension that attempts to "Make the Internet Readable Again". So far it can skip the annoying stories common on many recipe pages and go straight to the recipes.
 
-## Installation
+## installation
 
 1. Clone the repository.
 1. Navigate to `chrome://extensions` in Chrome.
