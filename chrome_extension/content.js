@@ -5,7 +5,7 @@
  */
 
 const recipe_identifier = {
-    tag_names: ["ul"],
+    tag_names: [],
     class_names: [
         "wprm-recipe-template-custom",
         "wprm-recipe-template-mb-custom",
