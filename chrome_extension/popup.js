@@ -4,13 +4,13 @@
 document.addEventListener(
     "DOMContentLoaded",
     function () {
-        const skipCheckbox = document.getElementById("skip");
+        const checkbox = document.getElementById("skip");
 
         chrome.storage.sync.get(["skipToRecipeOption"], function (result) {
-            skipCheckbox.checked = result.skipToRecipeOption;
+            checkbox.checked = result.skipToRecipeOption;
         });
 
-        skipCheckbox.addEventListener(
+        checkbox.addEventListener(
             "change",
             function () {
                 chrome.storage.sync.set(

@@ -1,9 +1,3 @@
-/**
- * TODO:
- * close newsletter
- * find more elements
- */
-
 const recipe_identifier = {
     tag_names: [],
     class_names: [
@@ -60,7 +54,6 @@ function skipToRecipe() {
 }
 
 chrome.storage.sync.get(["skipToRecipeOption"], function (result) {
-    //console.log('skipToRecipe currently is ' + result.skipToRecipeOption);
     if (result.skipToRecipeOption) {
         skipToRecipe();
     }
