@@ -34,7 +34,7 @@ function skipToRecipe() {
 
     let elem = null;
 
-    for (var id of recipe_identifier.wild_card) {
+    for (const id of recipe_identifier.wild_card) {
         elem = document.querySelectorAll(`[class^='${id}']`);
         if (elem.length > 0) {
             scroll(elem);
@@ -42,7 +42,7 @@ function skipToRecipe() {
         }
     }
 
-    for (var id of recipe_identifier.class_names) {
+    for (const id of recipe_identifier.class_names) {
         elem = document.getElementsByClassName(id);
         if (elem.length > 0) {
             scroll(elem);
@@ -50,7 +50,7 @@ function skipToRecipe() {
         }
     }
 
-    for (var id of recipe_identifier.tag_names) {
+    for (const id of recipe_identifier.tag_names) {
         elem = document.getElementsByTagName(id);
         if (elem.length > 0) {
             scroll(elem);
