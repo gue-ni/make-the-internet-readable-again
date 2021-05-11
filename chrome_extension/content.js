@@ -32,7 +32,7 @@ function skipToRecipe() {
         }
     }
 
-    var elem = null;
+    let elem = null;
 
     for (var id of recipe_identifier.wild_card) {
         elem = document.querySelectorAll(`[class^='${id}']`);
