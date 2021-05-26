@@ -4,7 +4,7 @@ A chrome extension that attempts to "Make the Internet Readable Again". So far i
 
 ## installation
 
-1. Clone the repository.
+1. Clone the repository or download as ZIP.
 1. Navigate to `chrome://extensions` in Chrome.
 1. Toggle "Developer mode".
 1. Click "Load Unpacked" and select `chrome_extension` from the repository.
